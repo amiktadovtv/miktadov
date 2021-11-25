@@ -37,7 +37,7 @@ body {
 
 /* line 32, ../sass/scroll_construction_mob.scss */
 section:not(#sectionPin) {
-  min-height: 100vh;
+  height: 100vh;
   width: 100%;
   position: relative;
   display: grid;
@@ -88,7 +88,7 @@ h3 {
 .pin-wrap .box {
   height: 100vh;
   width: 100%;
-  max-width: 500px;
+  max-width: 750px;
   padding: 8vw;
   display: flex;
   flex-direction: column;
@@ -396,71 +396,71 @@ input:hover::placeholder {
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(1) {
   border-color: black;
-  height: 37px;
-  width: 37px;
+  height: 23px;
+  width: 23px;
   animation-delay: -0.2s;
   background: black;
-  left: 80vw;
+  left: 23vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(2) {
   border-color: black;
-  height: 21px;
-  width: 21px;
+  height: 35px;
+  width: 35px;
   animation-delay: -0.4s;
   background: black;
-  left: 33vw;
+  left: 51vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(3) {
   border-color: black;
-  height: 26px;
-  width: 26px;
+  height: 30px;
+  width: 30px;
   animation-delay: -0.6s;
   background: black;
-  left: 77vw;
+  left: 25vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(4) {
   border-color: black;
-  height: 30px;
-  width: 30px;
+  height: 29px;
+  width: 29px;
   animation-delay: -0.8s;
   background: black;
-  left: 40vw;
+  left: 34vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(5) {
   border-color: black;
-  height: 40px;
-  width: 40px;
+  height: 23px;
+  width: 23px;
   animation-delay: -1s;
   background: black;
-  left: 28vw;
+  left: 52vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(6) {
   border-color: black;
-  height: 38px;
-  width: 38px;
+  height: 24px;
+  width: 24px;
   animation-delay: -1.2s;
   background: black;
-  left: 65vw;
+  left: 72vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(7) {
   border-color: black;
-  height: 38px;
-  width: 38px;
+  height: 36px;
+  width: 36px;
   animation-delay: -1.4s;
   background: black;
-  left: 62vw;
+  left: 10vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
@@ -470,127 +470,127 @@ input:hover::placeholder {
   width: 26px;
   animation-delay: -1.6s;
   background: black;
-  left: 72vw;
+  left: 19vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(9) {
   border-color: black;
-  height: 30px;
-  width: 30px;
+  height: 31px;
+  width: 31px;
   animation-delay: -1.8s;
-  background: black;
-  left: 17vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(10) {
-  border-color: black;
-  height: 25px;
-  width: 25px;
-  animation-delay: -2s;
-  background: black;
-  left: 12vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(11) {
-  border-color: black;
-  height: 23px;
-  width: 23px;
-  animation-delay: -2.2s;
-  background: black;
-  left: 66vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(12) {
-  border-color: black;
-  height: 24px;
-  width: 24px;
-  animation-delay: -2.4s;
-  background: black;
-  left: 21vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(13) {
-  border-color: black;
-  height: 40px;
-  width: 40px;
-  animation-delay: -2.6s;
-  background: black;
-  left: 85vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(14) {
-  border-color: black;
-  height: 32px;
-  width: 32px;
-  animation-delay: -2.8s;
-  background: black;
-  left: 90vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(15) {
-  border-color: black;
-  height: 37px;
-  width: 37px;
-  animation-delay: -3s;
-  background: black;
-  left: 18vw;
-  margin-left: 60px;
-}
-/* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(16) {
-  border-color: black;
-  height: 37px;
-  width: 37px;
-  animation-delay: -3.2s;
   background: black;
   left: 57vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
-.cont .drip:nth-child(17) {
+.cont .drip:nth-child(10) {
+  border-color: black;
+  height: 24px;
+  width: 24px;
+  animation-delay: -2s;
+  background: black;
+  left: 96vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(11) {
+  border-color: black;
+  height: 30px;
+  width: 30px;
+  animation-delay: -2.2s;
+  background: black;
+  left: 81vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(12) {
   border-color: black;
   height: 31px;
   width: 31px;
+  animation-delay: -2.4s;
+  background: black;
+  left: 53vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(13) {
+  border-color: black;
+  height: 36px;
+  width: 36px;
+  animation-delay: -2.6s;
+  background: black;
+  left: 30vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(14) {
+  border-color: black;
+  height: 26px;
+  width: 26px;
+  animation-delay: -2.8s;
+  background: black;
+  left: 37vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(15) {
+  border-color: black;
+  height: 34px;
+  width: 34px;
+  animation-delay: -3s;
+  background: black;
+  left: 42vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(16) {
+  border-color: black;
+  height: 28px;
+  width: 28px;
+  animation-delay: -3.2s;
+  background: black;
+  left: 51vw;
+  margin-left: 60px;
+}
+/* line 382, ../sass/scroll_construction_mob.scss */
+.cont .drip:nth-child(17) {
+  border-color: black;
+  height: 26px;
+  width: 26px;
   animation-delay: -3.4s;
   background: black;
-  left: 33vw;
+  left: 54vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(18) {
   border-color: black;
-  height: 24px;
-  width: 24px;
+  height: 38px;
+  width: 38px;
   animation-delay: -3.6s;
   background: black;
-  left: 69vw;
+  left: 35vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(19) {
   border-color: black;
-  height: 32px;
-  width: 32px;
+  height: 24px;
+  width: 24px;
   animation-delay: -3.8s;
   background: black;
-  left: 93vw;
+  left: 65vw;
   margin-left: 60px;
 }
 /* line 382, ../sass/scroll_construction_mob.scss */
 .cont .drip:nth-child(20) {
   border-color: black;
-  height: 38px;
-  width: 38px;
+  height: 22px;
+  width: 22px;
   animation-delay: -4s;
   background: black;
-  left: 61vw;
+  left: 50vw;
   margin-left: 60px;
 }
 
